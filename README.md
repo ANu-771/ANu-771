@@ -48,7 +48,7 @@
 ---
 ## 📊 GitHub Stats
 
-<div align="Right">
+<div align="Center">
 
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ANu-771&show_icons=true&theme=tokyonight)
 
