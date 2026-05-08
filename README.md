@@ -2,6 +2,14 @@
   <img src="https://raw.githubusercontent.com/ANu-771/ANu-771/main/banner.png" alt="Banner" width="100%" style="border-radius: 12px;" />
 </div>
 
+//
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+I'm+Anu+👋;Software+Engineering+Student+at+IJSE;UI%2FUX+Enthusiast;Java+%7C+JavaScript+Developer;Building+Modern+and+Creative+Applications"/>
+
+</div>
+///
+
 ## 👋 Hi, I'm ISURU ANUPAMA
 
 - 💻 **Full Stack Developer** | 🎨 **UI/UX Enthusiast** | 📱 **Mobile Developer**
