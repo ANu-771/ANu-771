@@ -56,6 +56,7 @@
 
 ![GitHub Streak]([https://streak-stats.demolab.com/?user=ANu-771&theme=radical&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=ANu-771&theme=tokyonight))
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=ANu-771&theme=radical&hide_border=true)
 </div>
 
 
