@@ -9,7 +9,8 @@
 - 🌱 Currently learning **Advanced Spring Boot, System Design & Modern UI/UX**
 - 🔭 Open to collaborate on **interesting projects**
 - 💬 Ask me about **Java, React, Flutter, or Web Development**
-- 📫 Reach me: **isuruanupama2021@gmail.com**
+- 📫 Email: isuruanupama2021@gmail.com  
+- 🌐 Portfolio: [Visit My Portfolio](https://anu-771.github.io/Personal-Portfolio-Webpage/)
 - ⚡ Fun fact: I enjoy turning ideas into real working applications
 
 ---
@@ -61,7 +62,7 @@
 
 ## 📊 GitHub Metrics
 
-<div align="center">
+<div align="left">
   <img src="https://raw.githubusercontent.com/ANu-771/ANu-771/main/github-metrics.svg" alt="GitHub Metrics" width="500" />
 </div>
 
