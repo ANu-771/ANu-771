@@ -48,18 +48,22 @@
 ---
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANu-771&show_icons=true&theme=radical&hide_border=true)](https://github.com/ANu-771)
+<div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANu-771&layout=compact&theme=radical&hide_border=true)](https://github.com/ANu-771)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANu-771&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ANu-771&theme=radical&hide_border=true)](https://github.com/ANu-771)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANu-771&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ANu-771&theme=radical&hide_border=true)
+
+</div>
 
 ---
 
 ## 📊 GitHub Metrics
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/ANu-771/ANu-771/main/github-metrics.svg" alt="GitHub Metrics" width="500" />
+  <img src="https://raw.githubusercontent.com/ANu-771/ANu-771/main/github-metrics.svg" alt="GitHub Metrics" width="450" />
 </div>
 
 ## 🤝 Connect with Me
