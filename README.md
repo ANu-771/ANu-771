@@ -48,13 +48,16 @@
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANu-771&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANu-771&layout=compact&theme=radical&hide_border=true" width="48%" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANu-771&theme=radical&hide_border=true" width="60%" />
-</p>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANu-771&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANu-771&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ANu-771&theme=radical&hide_border=true)
+
+</div>
+
 
 ---
 
