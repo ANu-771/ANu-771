@@ -8,10 +8,10 @@
 - 🛠 Crafting clean, scalable and beautiful applications
 - 🌱 Currently learning **Advanced Spring Boot, System Design & Modern UI/UX**
 - 🔭 Open to collaborate on **interesting projects**
-- 💬 Ask me about **Java, React, Flutter, or Web Development**
+- ☕ Fuel : Coffee → Code → Repeat
 - 📫 Email: isuruanupama2021@gmail.com  
 - 🌐 Portfolio: [Visit My Portfolio](https://anu-771.github.io/Personal-Portfolio-Webpage/)
-- ⚡ Fun fact: I enjoy turning ideas into real working applications
+- ⚡ Fun fact: I'm still a student, but always coding!
 
 ---
 
@@ -48,15 +48,13 @@
 ---
 ## 📊 GitHub Stats
 
-<div align="Center">
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ANu-771&show_icons=true&theme=tokyonight)
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ANu-771&show_icons=true&theme=tokyonight"/>
 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ANu-771&theme=tokyonight)
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ANu-771&theme=tokyonight"/>
 
 </div>
-
 
 ---
 
