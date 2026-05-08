@@ -1,14 +1,9 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ANu-771/ANu-771/main/banner.png" alt="Banner" width="100%" style="border-radius: 12px;" />
-</div>
-
-//
-<div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+I'm+Anu+👋;Software+Engineering+Student+at+IJSE;UI%2FUX+Enthusiast;Java+%7C+JavaScript+Developer;Building+Modern+and+Creative+Applications"/>
 
 </div>
-///
+---
 
 ## 👋 Hi, I'm ISURU ANUPAMA
 
@@ -74,9 +69,22 @@
 
 ## 🤝 Connect with Me
 
-- **GitHub**: [ANu-771](https://github.com/ANu-771)
-- **Portfolio**: [Isuru Anupama](https://anu-771.github.io/Personal-Portfolio-Webpage/)
-- **Email**: isuruanupama2021@gmail.com
+<p align="center">
+
+<a href="https://wa.me/94779647493">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://t.me/AnU_V7T">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://discordapp.com/users/anux_77">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+</p>
+
 
 ---
 
