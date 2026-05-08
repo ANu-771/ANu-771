@@ -48,11 +48,10 @@
 ---
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="Right">
 
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ANu-771&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ANu-771&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ANu-771&theme=tokyonight)
 
