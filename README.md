@@ -67,22 +67,8 @@
 
 ---
 
-## 🌟 Featured Projects
-
-- **Personal Portfolio** — Modern & fully responsive portfolio website  
-  → [View Live](https://anu-771.github.io/Personal-Portfolio-Webpage/)
-
-*(Add more projects here as you build them)*
-
----
-
-## 🎯 2026 Goals
-
-- Master **Spring Boot Microservices** & System Design
-- Build **production-grade full-stack applications**
-- Contribute actively to **Open Source**
-- Level up **UI/UX craftsmanship**
-
+- **Personal Portfolio** —  
+  → [Anu](https://anu-771.github.io/Personal-Portfolio-Webpage/)
 ---
 
 ## 📫 Let's Connect
