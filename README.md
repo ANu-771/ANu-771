@@ -50,11 +50,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANu-771&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=ANu-771&show_icons=true&theme=radical&hide_border=true&count_private=true](https://github-readme-stats-eight-theta.vercel.app/api?username=ANu-771&show_icons=true&theme=tokyonight))
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANu-771&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook)
+![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=ANu-771&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ANu-771&layout=compact&theme=tokyonight))
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ANu-771&theme=radical&hide_border=true)
+![GitHub Streak]([https://streak-stats.demolab.com/?user=ANu-771&theme=radical&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=ANu-771&theme=tokyonight))
 
 </div>
 
