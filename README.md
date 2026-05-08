@@ -62,7 +62,7 @@
 ## 📊 GitHub Metrics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ANu-771/ANu-771/main/github-metrics.svg" alt="GitHub Metrics" width="95%" />
+  <img src="https://raw.githubusercontent.com/ANu-771/ANu-771/main/github-metrics.svg" alt="GitHub Metrics" width="500" />
 </div>
 
 ## 🤝 Connect with Me
