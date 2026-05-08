@@ -48,14 +48,11 @@
 ---
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANu-771&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANu-771&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook" width="49%" />
-</div>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANu-771&show_icons=true&theme=radical&hide_border=true)](https://github.com/ANu-771)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ANu-771&theme=radical&hide_border=true" width="70%" />
-</div>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANu-771&layout=compact&theme=radical&hide_border=true)](https://github.com/ANu-771)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ANu-771&theme=radical&hide_border=true)](https://github.com/ANu-771)
 
 ---
 
