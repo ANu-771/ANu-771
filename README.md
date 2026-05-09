@@ -96,12 +96,16 @@
   <img src="https://img.icons8.com/fluency/96/whatsapp.png" width="50" height="50"/>
 </a>
 
-<a href="https://t.me/AnU_V7T">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+<a href="https://t.me/AnU_V7T" target="_blank">
+  <img src="https://img.icons8.com/fluency/96/telegram-app.png" width="50" height="50"/>
 </a>
 
-<a href="https://discordapp.com/users/anux_77">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<a href="https://discordapp.com/users/anux_77" target="_blank">
+  <img src="https://img.icons8.com/fluency/96/discord.png" width="50" height="50"/>
+</a>
+
+<a href="mailto:isuruanupama2021@gmail.com">
+  <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="50" height="50"/>
 </a>
 
 </p>
