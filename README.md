@@ -13,12 +13,12 @@
 </div>
 
 <table>
-## 👋 Hi, I'm ISURU ANUPAMA
   <tr>
+  👋 Hi, I'm ISURU ANUPAMA
 
   <td width="58%" valign="top">
     
-- 💻 **Full Stack Developer** | 🎨 **UI/UX Enthusiast** | 📱 **Mobile Developer**
+- 💻 **Full Stack Developer** | 🎨 **UI/UX Enthusiast** | 📱 **Mobile Developer** <br>
 - 🛠 Crafting clean, scalable and beautiful applications
 - 🌱 Currently learning **Advanced Spring Boot, System Design & Modern UI/UX**
 - 🔭 Open to collaborate on **interesting projects**
