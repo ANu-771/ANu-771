@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ANu-771&style=flat-square&color=0096c7&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=ANu-771&style=flat-square&color=0096c7&label=VISITORS" />
 
 </div>
 
