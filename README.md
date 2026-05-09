@@ -44,15 +44,15 @@
 <p align="center">
 
 <a href="#">
-  <img src="https://img.icons8.com/color/96/java-coffee-cup-logo--v1.png" width="50"/>
+  <img src="https://img.icons8.com/color/96/java-coffee-cup-logo--v1.png" width="50" height="50"/>
 </a>
 
 <a href="#">
-  <img src="https://img.icons8.com/color/96/javascript--v1.png" width="50"/>
+  <img src="https://img.icons8.com/color/96/javascript--v1.png" width="50" height="50"/>
 </a>
 
 <a href="#">
-  <img src="https://img.icons8.com/color/96/python.png" width="50"/>
+  <img src="https://img.icons8.com/color/96/python.png" width="50" height="50"/>
 </a>
 
 <a href="#">
