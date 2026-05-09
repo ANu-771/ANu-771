@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0096c7,100:0096c7&height=220&section=header&text=ISURU%20ANUPAMA&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Software%20Engineer&descAlignY=55" width="100%" />
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+I'm+Anu+👋;Software+Engineering+Student+at+IJSE;UI%2FUX+Enthusiast;Java+%7C+JavaScript+Developer;Building+Modern+and+Creative+Applications"/>
