@@ -12,6 +12,12 @@
 
 </div>
 
+<table>
+  <tr>
+
+    <!-- LEFT SIDE (TEXT) -->
+    <td width="58%" valign="top">
+
 ## 👋 Hi, I'm ISURU ANUPAMA
 
 - 💻 **Full Stack Developer** | 🎨 **UI/UX Enthusiast** | 📱 **Mobile Developer**
@@ -23,14 +29,17 @@
 - 🌐 Portfolio: [Visit My Portfolio](https://anu-771.github.io/Personal-Portfolio-Webpage/)
 - ⚡ Fun fact: I'm still a student, but always coding!
 
-<td width="42%" align="right" valign="middle">
+    </td>
 
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZvemljemdnZTFtNWo4M2dlM3AwdXdrbW14ZnVrcWg5NGI0ZWgyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="260" alt="coding gif" />
+    <!-- RIGHT SIDE (GIF) -->
+    <td width="42%" align="right" valign="middle">
 
-  <br/><br/>
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZvemljemdnZTFtNWo4M2dlM3AwdXdrbW14ZnVrcWg5NGI0ZWgyMyZlcD12MV9pbnRlcm5hbF9naWZfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="260" alt="coding gif" />
 
-</td>
+    </td>
 
+  </tr>
+</table>
 ---
 
 ## 🛠️ Technologies & Tools
