@@ -91,23 +91,21 @@
 ## 🤝 Connect with Me
 
 <p align="center">
+  <span style="display:inline-block; margin:10px;">
+    <a href="https://wa.me/94779647493"><img src="https://img.icons8.com/fluency/96/whatsapp.png" width="50"/></a>
+  </span>
 
-<a href="https://wa.me/94779647493" target="_blank">
-  <img src="https://img.icons8.com/fluency/96/whatsapp.png" width="50" height="50"/>
-</a>
+  <span style="display:inline-block; margin:10px;">
+    <a href="https://t.me/AnU_V7T"><img src="https://img.icons8.com/fluency/96/telegram-app.png" width="50"/></a>
+  </span>
 
-<a href="https://t.me/AnU_V7T" target="_blank">
-  <img src="https://img.icons8.com/fluency/96/telegram-app.png" width="50" height="50"/>
-</a>
+  <span style="display:inline-block; margin:10px;">
+    <a href="https://discordapp.com/users/anux_77"><img src="https://img.icons8.com/fluency/96/discord.png" width="50"/></a>
+  </span>
 
-<a href="https://discordapp.com/users/anux_77" target="_blank">
-  <img src="https://img.icons8.com/fluency/96/discord.png" width="50" height="50"/>
-</a>
-
-<a href="mailto:isuruanupama2021@gmail.com">
-  <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="50" height="50"/>
-</a>
-
+  <span style="display:inline-block; margin:10px;">
+    <a href="mailto:isuruanupama2021@gmail.com"><img src="https://img.icons8.com/fluency/96/gmail-new.png" width="50"/></a>
+  </span>
 </p>
 
 
