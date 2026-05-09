@@ -39,7 +39,6 @@
 
   </tr>
 </table>
----
 
 ## 🛠️ Technologies & Tools
 
