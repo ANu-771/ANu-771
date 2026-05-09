@@ -39,25 +39,23 @@
   </tr>
 </table>
 
-### 💻 Programming Languages
-
 <p align="center">
 
-<a href="#" style="margin: 10px;">
-  <img src="https://img.icons8.com/color/96/java-coffee-cup-logo--v1.png" width="50" height="50"/>
-</a>
+<span style="display:inline-block; margin:10px;">
+  <img src="https://img.icons8.com/color/96/java-coffee-cup-logo--v1.png" width="50"/>
+</span>
 
-<a href="#" style="margin: 10px;">
-  <img src="https://img.icons8.com/color/96/javascript--v1.png" width="50" height="50"/>
-</a>
+<span style="display:inline-block; margin:10px;">
+  <img src="https://img.icons8.com/color/96/javascript--v1.png" width="50"/>
+</span>
 
-<a href="#" style="margin: 10px;">
-  <img src="https://img.icons8.com/color/96/python.png" width="50" height="50"/>
-</a>
+<span style="display:inline-block; margin:10px;">
+  <img src="https://img.icons8.com/color/96/python.png" width="50"/>
+</span>
 
-<a href="#" style="margin: 10px;">
-  <img src="https://img.icons8.com/color/96/typescript.png" width="50" height="50"/>
-</a>
+<span style="display:inline-block; margin:10px;">
+  <img src="https://img.icons8.com/color/96/typescript.png" width="50"/>
+</span>
 
 </p>
 
