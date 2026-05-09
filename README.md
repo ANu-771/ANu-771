@@ -39,13 +39,27 @@
   </tr>
 </table>
 
-## 🛠️ Technologies & Tools
-
 ### 💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+<p align="center">
+
+<a href="#">
+  <img src="https://img.icons8.com/color/96/java-coffee-cup-logo--v1.png" width="50"/>
+</a>
+
+<a href="#">
+  <img src="https://img.icons8.com/color/96/javascript--v1.png" width="50"/>
+</a>
+
+<a href="#">
+  <img src="https://img.icons8.com/color/96/python.png" width="50"/>
+</a>
+
+<a href="#">
+  <img src="https://img.icons8.com/color/96/typescript.png" width="50" height="50"/>
+</a>
+
+</p>
 
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
