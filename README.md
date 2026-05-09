@@ -88,6 +88,4 @@
 
 
 ---
-
-**Thanks for visiting my profile!** 🚀  
-Let's build something amazing together.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0096c7,100:0096c7&height=120&section=footer&text=Thanks%20for%20visiting%20my%20profile!%20🚀&fontColor=ffffff&fontSize=20&animation=twinkling&fontAlignY=70" width="100%" />
