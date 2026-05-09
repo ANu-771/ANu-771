@@ -23,6 +23,14 @@
 - 🌐 Portfolio: [Visit My Portfolio](https://anu-771.github.io/Personal-Portfolio-Webpage/)
 - ⚡ Fun fact: I'm still a student, but always coding!
 
+<td width="42%" align="center" valign="middle">
+
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZvemljemdnZTFtNWo4M2dlM3AwdXdrbW14ZnVrcWg5NGI0ZWgyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="260" alt="coding gif" />
+
+  <br/><br/>
+
+</td>
+
 ---
 
 ## 🛠️ Technologies & Tools
