@@ -93,7 +93,7 @@
 <p align="center">
 
 <a href="https://wa.me/94779647493" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/whatsapp.png" alt="WhatsApp" />
+  <img src="https://img.icons8.com/fluency/96/whatsapp.png" width="50" height="50"/>
 </a>
 
 <a href="https://t.me/AnU_V7T">
