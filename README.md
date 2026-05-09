@@ -39,64 +39,48 @@
   </tr>
 </table>
 
-### 💻 Programming Languages
-<p align="center">
+## 🚀 Tech Stack
 
-<span style="display:inline-block; margin:10px;">
-  <img src="https://img.icons8.com/color/96/java-coffee-cup-logo--v1.png" width="50"/>
-</span>
+<div align="center">
 
-<span style="display:inline-block; margin:10px;">
-  <img src="https://img.icons8.com/color/96/javascript--v1.png" width="50"/>
-</span>
+<!-- Programming Languages -->
+<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=007396" />
 
-<span style="display:inline-block; margin:10px;">
-  <img src="https://img.icons8.com/color/96/python.png" width="50"/>
-</span>
+<!-- Backend -->
+<img src="https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring&logoColor=6DB33F" />
+<img src="https://img.shields.io/badge/Spring%20Boot-black?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
+<img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=339933" />
+<img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white" />
 
-<span style="display:inline-block; margin:10px;">
-  <img src="https://img.icons8.com/color/96/typescript.png" width="50"/>
-</span>
+<!-- Frontend -->
+<img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+<img src="https://img.shields.io/badge/GSAP-black?style=for-the-badge&logo=greensock&logoColor=88CE02" />
+<img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=563D7C" />
+<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux&logoColor=764ABC" />
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
 
-</p>
+<!-- Databases -->
+<img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
 
-### 🌐 Frontend
-<p align="center">
+<!-- Tools -->
+<img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 
-<span style="display:inline-block; margin:10px;">
-  <img src="https://img.icons8.com/color/96/html-5--v1.png" width="50"/>
-</span>
+<!-- CMS / Cloud -->
+<img src="https://img.shields.io/badge/Payload%20CMS-black?style=for-the-badge&logo=payload&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Appwrite-black?style=for-the-badge&logo=appwrite&logoColor=F02E65" />
+<img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=ffffff" />
 
-<span style="display:inline-block; margin:10px;">
-  <img src="https://img.icons8.com/color/96/css3.png" width="50"/>
-</span>
-
-<span style="display:inline-block; margin:10px;">
-  <img src="https://img.icons8.com/color/96/react-native.png" width="50"/>
-</span>
-
-<span style="display:inline-block; margin:10px;">
-  <img src="https://img.icons8.com/color/96/bootstrap.png" width="50"/>
-</span>
-
-</p>
-
-### 📱 Mobile Development
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### ⚙️ Backend & Database
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
+</div>
 ---
 ## 📊 GitHub Stats
 
