@@ -12,10 +12,11 @@
 
 </div>
 
-<table width="100%">
-  <tr>
+<div align="center">
 
-  <td width="55%" valign="top" align="left">
+<table>
+  <tr>
+    <td width="60%" valign="top">
 
 <h2>👋 Hi, I'm <b>ISURU ANUPAMA</b></h2>
 
@@ -32,14 +33,13 @@
 
   </td>
 
-  <td width="15%"></td>
-
-  <td width="30%" valign="top" align="right">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZvemljemdnZTFtNWo4M2dlM3AwdXdrbW14ZnVrcWg5NGI0ZWgyMyZlcD12MV9pbnRlcm5hbF9naWZfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="260"/>
+  <td width="40%" align="center" valign="middle">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZvemljemdnZTFtNWo4M2dlM3AwdXdrbW14ZnVrcWg5NGI0ZWgyMyZlcD12MV9pbnRlcm5hbF9naWZfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="240"/>
     </td>
-
   </tr>
 </table>
+
+</div>
 
 ## 🚀 Tech Stack
 
