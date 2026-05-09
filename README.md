@@ -15,7 +15,6 @@
 <table>
   <tr>
 
-    <!-- LEFT SIDE -->
   <td width="58%" valign="top">
 
 
@@ -32,7 +31,6 @@
 
     </td>
 
-    <!-- RIGHT SIDE -->
     <td width="42%" align="center" valign="middle">
 
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZvemljemdnZTFtNWo4M2dlM3AwdXdrbW14ZnVrcWg5NGI0ZWgyMyZlcD12MV9pbnRlcm5hbF9naWZfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="260"/>
