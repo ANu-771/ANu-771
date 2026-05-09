@@ -43,19 +43,19 @@
 
 <p align="center">
 
-<a href="#">
+<a href="#" style="margin: 10px;">
   <img src="https://img.icons8.com/color/96/java-coffee-cup-logo--v1.png" width="50" height="50"/>
 </a>
 
-<a href="#">
+<a href="#" style="margin: 10px;">
   <img src="https://img.icons8.com/color/96/javascript--v1.png" width="50" height="50"/>
 </a>
 
-<a href="#">
+<a href="#" style="margin: 10px;">
   <img src="https://img.icons8.com/color/96/python.png" width="50" height="50"/>
 </a>
 
-<a href="#">
+<a href="#" style="margin: 10px;">
   <img src="https://img.icons8.com/color/96/typescript.png" width="50" height="50"/>
 </a>
 
