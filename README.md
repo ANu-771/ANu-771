@@ -1,9 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0096c7,100:0096c7&height=220&section=header&text=ISURU%20ANUPAMA&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Software%20Engineer&descAlignY=55" width="100%" />
 
-<p align="center">
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+ISURU+ANUPAMA;Software+Engineering+Student;UI%2FUX+Enthusiast+%7C+Java+Developer;Passionate+about+Coding.....%F0%9F%9A%80)](https://git.io/typing-svg)
-</p>
+
+</div>
 
 <div align="center">
 
