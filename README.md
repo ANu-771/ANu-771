@@ -14,28 +14,26 @@
 
 <table>
   <tr>
-    
-  <td width="58%" valign="top">
+    <td width="60%" valign="top">
 
 <h2>👋 Hi, I'm <b>ISURU ANUPAMA</b></h2>
 
-- 💻 <b>Full Stack Developer</b> | 🎨 UI/UX Enthusiast | 📱 Mobile Developer  
-- 🛠 Crafting clean, scalable and beautiful applications  
-- 🌱 Currently learning <b>Advanced Spring Boot, System Design & Modern UI/UX</b>  
-- 🔭 Open to collaborate on interesting projects  
-- ☕ Fuel: Coffee → Code → Repeat  
-- 📫 Email: isuruanupama2021@gmail.com  
-- 🌐 Portfolio: <a href="https://anu-771.github.io/Personal-Portfolio-Webpage/">Visit My Portfolio</a>  
-- ⚡ Fun fact: I'm still a student, but always coding!
+<p style="margin:0; line-height:1.4;">
+💻 <b>Full Stack Developer</b> | 🎨 UI/UX Enthusiast | 📱 Mobile Developer<br>
+🛠 Crafting clean, scalable and beautiful applications<br>
+🌱 Currently learning <b>Spring Boot, System Design & UI/UX</b><br>
+🔭 Open to collaborate on interesting projects<br>
+☕ Fuel: Coffee → Code → Repeat<br>
+📫 Email: isuruanupama2021@gmail.com<br>
+🌐 <a href="https://anu-771.github.io/Personal-Portfolio-Webpage/">Visit My Portfolio</a><br>
+⚡ Fun fact: Still a student, always coding!
+</p>
 
+  </td>
+
+  <td width="40%" align="center" valign="middle">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZvemljemdnZTFtNWo4M2dlM3AwdXdrbW14ZnVrcWg5NGI0ZWgyMyZlcD12MV9pbnRlcm5hbF9naWZfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="240"/>
     </td>
-
-    <td width="42%" align="center" valign="middle">
-
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZvemljemdnZTFtNWo4M2dlM3AwdXdrbW14ZnVrcWg5NGI0ZWgyMyZlcD12MV9pbnRlcm5hbF9naWZfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="260"/>
-
-    </td>
-
   </tr>
 </table>
 
