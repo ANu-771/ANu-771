@@ -74,11 +74,16 @@
 <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=F05032" />
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+<img src="https://img.shields.io/badge/Hibernate-black?style=for-the-badge&logo=hibernate&logoColor=59666C" />
+<!-- <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=FCC624" /> -->
+<img src="https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=0078D4" />
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-black?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 
 <!-- CMS / Cloud -->
 <!-- <img src="https://img.shields.io/badge/Payload%20CMS-black?style=for-the-badge&logo=payload&logoColor=ffffff" /> -->
 <img src="https://img.shields.io/badge/Appwrite-black?style=for-the-badge&logo=appwrite&logoColor=F02E65" />
 <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=ffffff" />
+
 
 </div>
 
