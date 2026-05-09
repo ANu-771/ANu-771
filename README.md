@@ -12,9 +12,10 @@
 
 </div>
 
-<table align="center">
+<table width="100%">
   <tr>
-    <td width="60%" valign="top">
+    <!-- LEFT SIDE: TEXT -->
+    <td width="60%" valign="top" align="left">
 
 <h2>👋 Hi, I'm <b>ISURU ANUPAMA</b></h2>
 
@@ -25,15 +26,17 @@
 🔭 Open to collaborate on interesting projects<br>
 ☕ Fuel: Coffee → Code → Repeat<br>
 📫 Email: isuruanupama2021@gmail.com<br>
-🌐 <a href="https://anu-771.github.io/Personal-Portfolio-Webpage/">Visit My Portfolio</a><br>
+🌐 Portfolio: <a href="https://anu-771.github.io/Personal-Portfolio-Webpage/">Visit My Portfolio</a><br>
 ⚡ Fun fact: Still a student, always coding!
 </p>
 
   </td>
 
-  <td width="40%" align="center" valign="middle">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZvemljemdnZTFtNWo4M2dlM3AwdXdrbW14ZnVrcWg5NGI0ZWgyMyZlcD12MV9pbnRlcm5hbF9naWZfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="240"/>
+    <!-- RIGHT SIDE: GIF -->
+  <td width="40%" valign="top" align="right">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZvemljemdnZTFtNWo4M2dlM3AwdXdrbW14ZnVrcWg5NGI0ZWgyMyZlcD12MV9pbnRlcm5hbF9naWZfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="260"/>
     </td>
+
   </tr>
 </table>
 
