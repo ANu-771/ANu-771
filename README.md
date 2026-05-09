@@ -81,7 +81,7 @@
 
 <!-- CMS / Cloud -->
 <!-- <img src="https://img.shields.io/badge/Payload%20CMS-black?style=for-the-badge&logo=payload&logoColor=ffffff" /> -->
-<img src="https://img.shields.io/badge/Appwrite-black?style=for-the-badge&logo=appwrite&logoColor=F02E65" />
+<!-- <img src="https://img.shields.io/badge/Appwrite-black?style=for-the-badge&logo=appwrite&logoColor=F02E65" /> -->
 <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=ffffff" />
 
 
