@@ -120,6 +120,19 @@ Hi, I'm <b>ISURU ANUPAMA</b></h2>
 <div align="left">
   <img src="https://raw.githubusercontent.com/ANu-771/ANu-771/main/github-metrics.svg" alt="GitHub Metrics" width="450" />
 </div>
+---
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ANu-771/ANu-771/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ANu-771/ANu-771/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/ANu-771/ANu-771/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
+---
 
 <h2 align="center"> 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGpxOTU2MjcwbG9pejNpbHhyaGhoZzQ4cWF5cWc0dms0YXAyaHRjMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ytVgZ6Ea4y5aiEG8IY/giphy.gif" width="50px"> 
