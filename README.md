@@ -39,9 +39,11 @@
   </tr>
 </table>
 
+---
+
 </div>
 
-## 🚀 Tech Stack
+<h2 align="center"> <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="50"> Tech Stack <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="50"> </h2>
 
 <div align="center">
 
@@ -111,7 +113,6 @@
 
 </div>
 
----
 
 ## 📊 GitHub Metrics
 
