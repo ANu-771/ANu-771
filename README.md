@@ -123,7 +123,6 @@ Hi, I'm <b>ISURU ANUPAMA</b></h2>
 </picture>
 
 </div>
----
 
 <h2 align="center"> 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGpxOTU2MjcwbG9pejNpbHhyaGhoZzQ4cWF5cWc0dms0YXAyaHRjMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ytVgZ6Ea4y5aiEG8IY/giphy.gif" width="50px"> 
