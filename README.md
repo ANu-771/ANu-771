@@ -89,14 +89,25 @@
 
 </div>
 
+<!------------------------- Github status Section ------------------------>
 
-## 📊 GitHub Stats
+<hr style="height:2px;border-width:0;color:rgb(0, 0, 0);background-color:rgb(0, 0, 0)">
 
-<div align="center">
+<h2 align="center"> 
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> 
+  GitHub Status 
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> 
+</h2>
 
-<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ANu-771&show_icons=true&theme=tokyonight"/>
+<br>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ANu-771&theme=tokyonight"/>
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=ANu-771" alt="GitHub Insights" />
+</p>
+
+<br><br>
+
+<hr style="height:2px;border-width:0;color:rgb(0, 0, 0);background-color:rgb(0, 0, 0)">
 
 </div>
 
