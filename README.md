@@ -107,21 +107,12 @@ Hi, I'm <b>ISURU ANUPAMA</b></h2>
   <img src="https://yourinsights.vercel.app/api/insight?username=ANu-771" alt="GitHub Insights" />
 </p>
 
-<br><br>
-
-
 </div>
 <h2 align="center"> 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWs2MG00OXBpdDRodTN1dWxwaGF3dThtZm45YjEzNDNkdm42cG15OCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/xTk9ZOk8WmSKQpFg1W/giphy.gif" width="32px"> 
-  GitHub Metrics
+  Snake Metrics
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWs2MG00OXBpdDRodTN1dWxwaGF3dThtZm45YjEzNDNkdm42cG15OCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/xTk9ZOk8WmSKQpFg1W/giphy.gif" width="32px"> 
 </h2>
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/ANu-771/ANu-771/main/github-metrics.svg" alt="GitHub Metrics" width="450" />
-</div>
----
-## 🐍 Contribution Snake
 
 <div align="center">
 
