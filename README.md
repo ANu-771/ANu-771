@@ -18,7 +18,9 @@
   <tr>
     <td width="60%" valign="top">
 
-<h2>👋 Hi, I'm <b>ISURU ANUPAMA</b></h2>
+  
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZjNkc3ZteGk0cTgzYXRkNDd5ZGdpcDE0eXY5MnYwODljbDdmcXRibSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/DpH0qXpLOsb7oAgbpi/giphy.gif" width="23px">
+Hi, I'm <b>ISURU ANUPAMA</b></h2>
 
 <p style="margin:0; line-height:1.4;">
 💻 <b>Full Stack Developer</b> | 🎨 UI/UX Enthusiast | 📱 Mobile Developer<br>
@@ -112,15 +114,23 @@
 <hr style="height:2px;border-width:0;color:rgb(0, 0, 0);background-color:rgb(0, 0, 0)">
 
 </div>
-
-
-## 📊 GitHub Metrics
+<h2 align="center"> 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWs2MG00OXBpdDRodTN1dWxwaGF3dThtZm45YjEzNDNkdm42cG15OCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/xTk9ZOk8WmSKQpFg1W/giphy.gif" width="32px"> 
+  GitHub Metrics
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWs2MG00OXBpdDRodTN1dWxwaGF3dThtZm45YjEzNDNkdm42cG15OCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/xTk9ZOk8WmSKQpFg1W/giphy.gif" width="32px"> 
+</h2>
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/ANu-771/ANu-771/main/github-metrics.svg" alt="GitHub Metrics" width="450" />
 </div>
 
-## 🤝 Connect with Me
+---
+
+<h2 align="center"> 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21qYmxtOGNwNmIyNHd2emRlZHVndzFxYmVnb2RoNGxvb3U4bTlyeCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/iJ14CzKg8Lhct1ZMcw/giphy.gif" width="60px"> 
+  Connect with Me
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21qYmxtOGNwNmIyNHd2emRlZHVndzFxYmVnb2RoNGxvb3U4bTlyeCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/iJ14CzKg8Lhct1ZMcw/giphy.gif" width="60px"> 
+</h2>
 
 <p align="center">
   <span style="display:inline-block; margin:10px;">
