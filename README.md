@@ -124,12 +124,10 @@ Hi, I'm <b>ISURU ANUPAMA</b></h2>
   <img src="https://raw.githubusercontent.com/ANu-771/ANu-771/main/github-metrics.svg" alt="GitHub Metrics" width="450" />
 </div>
 
----
-
 <h2 align="center"> 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21qYmxtOGNwNmIyNHd2emRlZHVndzFxYmVnb2RoNGxvb3U4bTlyeCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/iJ14CzKg8Lhct1ZMcw/giphy.gif" width="60px"> 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGpxOTU2MjcwbG9pejNpbHhyaGhoZzQ4cWF5cWc0dms0YXAyaHRjMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ytVgZ6Ea4y5aiEG8IY/giphy.gif" width="50px"> 
   Connect with Me
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21qYmxtOGNwNmIyNHd2emRlZHVndzFxYmVnb2RoNGxvb3U4bTlyeCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/iJ14CzKg8Lhct1ZMcw/giphy.gif" width="60px"> 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGpxOTU2MjcwbG9pejNpbHhyaGhoZzQ4cWF5cWc0dms0YXAyaHRjMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ytVgZ6Ea4y5aiEG8IY/giphy.gif" width="50px"> 
 </h2>
 
 <p align="center">
@@ -150,6 +148,4 @@ Hi, I'm <b>ISURU ANUPAMA</b></h2>
   </span>
 </p>
 
-
----
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0096c7,100:0096c7&height=120&section=footer&text=Thanks%20for%20visiting%20my%20profile!%20🚀&fontColor=ffffff&fontSize=20&animation=twinkling&fontAlignY=70" width="100%" />
