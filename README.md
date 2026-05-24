@@ -41,7 +41,6 @@ Hi, I'm <b>ISURU ANUPAMA</b></h2>
   </tr>
 </table>
 
----
 
 </div>
 
@@ -95,7 +94,6 @@ Hi, I'm <b>ISURU ANUPAMA</b></h2>
 
 <!------------------------- Github status Section ------------------------>
 
-<hr style="height:2px;border-width:0;color:rgb(0, 0, 0);background-color:rgb(0, 0, 0)">
 
 <h2 align="center"> 
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> 
@@ -111,7 +109,6 @@ Hi, I'm <b>ISURU ANUPAMA</b></h2>
 
 <br><br>
 
-<hr style="height:2px;border-width:0;color:rgb(0, 0, 0);background-color:rgb(0, 0, 0)">
 
 </div>
 <h2 align="center"> 
