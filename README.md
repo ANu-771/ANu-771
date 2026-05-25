@@ -83,7 +83,7 @@ Hi, I'm <b>ISURU ANUPAMA</b></h2>
 <!-- <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=FCC624" /> -->
 <img src="https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=0078D4" />
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-black?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-
+<img src="https://img.shields.io/badge/DataGrip-black?style=for-the-badge&logo=datagrip&logoColor=00D8FF" />
 <!-- CMS / Cloud -->
 <!-- <img src="https://img.shields.io/badge/Payload%20CMS-black?style=for-the-badge&logo=payload&logoColor=ffffff" /> -->
 <!-- <img src="https://img.shields.io/badge/Appwrite-black?style=for-the-badge&logo=appwrite&logoColor=F02E65" /> -->
