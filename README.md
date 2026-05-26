@@ -24,9 +24,6 @@
     <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-0096c7?style=flat-square&logo=googlechrome&logoColor=white" />
 </a>
 
----
-
-
 </div>
 
 <div align="center">
