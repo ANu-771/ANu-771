@@ -7,23 +7,11 @@
 </div>
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/GITHUB-ANu--771-0096c7?style=flat-square&logo=github&logoColor=white" />
-
-<img src="https://komarev.com/ghpvc/?username=ANu-771&style=flat-square&color=0096c7&label=VISITORS" />
-
-<img src="https://img.shields.io/badge/LOCATION-Sri%20Lanka-0096c7?style=flat-square&logo=googlemaps&logoColor=white" />
-
-<a href="https://github.com/ANu-771?tab=repositories">
-  
-<a href="https://github.com/ANu-771?tab=repositories">
-    <img src="https://img.shields.io/badge/REPOS-PUBLIC-0096c7?style=flat-square&logo=github&logoColor=white" />
-</a>
-
-<a href="https://anu-771.github.io/Personal-Portfolio-Webpage/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-0096c7?style=flat-square&logo=googlechrome&logoColor=white" />
-</a>
-
+  <img src="https://img.shields.io/badge/GITHUB-ANu--771-0096c7?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=ANu-771&style=flat-square&color=0096c7&label=VISITORS" />
+  <img src="https://img.shields.io/badge/LOCATION-Sri%20Lanka-0096c7?style=flat-square&logo=googlemaps&logoColor=white" />
+  <a href="https://github.com/ANu-771?tab=repositories"><img src="https://img.shields.io/badge/REPOS-PUBLIC-0096c7?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://anu-771.github.io/Personal-Portfolio-Webpage/"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-0096c7?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 </div>
 
 <div align="center">
