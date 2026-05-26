@@ -81,9 +81,13 @@ Hi, I'm <b>ISURU ANUPAMA</b></h2>
 <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 <img src="https://img.shields.io/badge/Hibernate-black?style=for-the-badge&logo=hibernate&logoColor=59666C" />
 <!-- <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=FCC624" /> -->
+<img src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=FF6C37" />
 <img src="https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=0078D4" />
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-black?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 <img src="https://img.shields.io/badge/DataGrip-black?style=for-the-badge&logo=datagrip&logoColor=00D8FF" />
+<img src="https://img.shields.io/badge/NetBeans-black?style=for-the-badge&logo=apache-netbeans-ide&logoColor=1B6AC6" />
+
+
 <!-- CMS / Cloud -->
 <!-- <img src="https://img.shields.io/badge/Payload%20CMS-black?style=for-the-badge&logo=payload&logoColor=ffffff" /> -->
 <!-- <img src="https://img.shields.io/badge/Appwrite-black?style=for-the-badge&logo=appwrite&logoColor=F02E65" /> -->
