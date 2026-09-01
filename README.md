@@ -70,6 +70,8 @@ Hi, I'm <b>ISURU ANUPAMA</b></h2>
 <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <!-- <img src="https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux&logoColor=764ABC" /> -->
 <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite&logoColor=646CFF" />
+<img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=3178C6" />
 
 <!-- Databases -->
 <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=47A248" />
