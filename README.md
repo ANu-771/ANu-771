@@ -59,6 +59,8 @@ Hi, I'm <b>ISURU ANUPAMA</b></h2>
 <img src="https://img.shields.io/badge/Spring%20Boot-black?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
 <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=339933" />
 <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-black?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
+<img src="https://img.shields.io/badge/REST%20API-black?style=for-the-badge&logo=fastapi&logoColor=009688" />
 
 <!-- Frontend -->
 <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26" />
